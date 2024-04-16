@@ -1,0 +1,10 @@
+{
+  "cSpell.words": [
+    "jsonify",
+    "nullable",
+    "pydantic",
+    "sessionmaker",
+    "sqlalchemy",
+    "sqlite"
+  ]
+}
